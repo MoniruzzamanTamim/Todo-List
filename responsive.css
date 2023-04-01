@@ -1,0 +1,31 @@
+
+@media (max-width: 470px) {
+    .wishlist h1 {
+        /* font-size: 5.5rem; */
+        font-size: 17px;
+        font-weight: 900;
+        margin-bottom: 37px;
+    }
+  }
+@media (max-width: 427px) {
+    .form-btn {
+      
+        padding: 10px 37px;
+      
+    }
+  }
+@media (max-width: 417px) {
+    .mainform input {
+    
+        border: none;
+        outline: none;
+        background: transparent;
+      
+    }
+  }
+
+
+ 
+
+
+
